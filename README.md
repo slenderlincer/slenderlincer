@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Saúl Aparicio
 
-I am a passionate web developer with experience in **JavaScript**, **Java**, **HTML**, **CSS**, **MySQL**, and **MongoDB**. I specialize in creating effective and elegant solutions in backend development.
+I am a passionate web developer with experience primarily in **JavaScript**, **HTML**, **CSS**, and with databases like **MySQL** and **MongoDB**. I specialize in creating effective and elegant solutions in backend development.
 
 ### 🎮 About Me
 
