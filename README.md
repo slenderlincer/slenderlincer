@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Saúl Aparicio
 
-<!--
-**slenderlincer/slenderlincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate web developer with experience in **JavaScript**, **Java**, **HTML**, **CSS**, **MySQL**, and **MongoDB**. I specialize in creating effective and elegant solutions in backend development.
 
-Here are some ideas to get you started:
+### 🎮 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm passionate about souls-like video games, and my favorite game is **Elden Ring**.
+- I also enjoy movies and series like **Game of Thrones**, **The Hobbit**, and **The Lord of the Rings**.
+- Currently, I am a seventh-semester student at **ITE University (Instituto Tecnológico de Ensenada)**, pursuing a degree in **Computer Systems Engineering**.
+
+### 🛠️ My Skills
+
+- **Languages**: JavaScript, Java, HTML, CSS
+- **Databases**: MySQL, MongoDB
+- **Backend Development**: Building effective and elegant solutions
+
+---
+
+Feel free to connect with me or explore my projects!
+
