@@ -10,7 +10,7 @@ I am a passionate web developer with experience in **JavaScript**, **Java**, **H
 
 ### 🛠️ My Skills
 
-- **Languages**: JavaScript, Java, HTML, CSS
+- **Languages**: ![javascript](https://img.shields.io/badge/javascript-yellow)
 - **Databases**: MySQL, MongoDB
 - **Backend Development**: Building effective and elegant solutions
 
