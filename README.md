@@ -28,7 +28,7 @@ I am a passionate web developer with experience primarily in **JavaScript**, **H
 
 ### 📜 Certifications
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
-[View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)
+[JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)
 
 ---
 
