@@ -26,6 +26,10 @@ I am a passionate web developer with experience primarily in **JavaScript**, **H
 
 - **Backend Development**: Building effective and elegant solutions
 
+### 📜 Certifications
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
+[View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)
+
 ---
 
 Feel free to connect with me or explore my projects!
